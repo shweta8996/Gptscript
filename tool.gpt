@@ -1,0 +1,6 @@
+name: mytool
+description: prints a message
+#!/usr/bin/env bash
+for i in $(seq 1 20000); do
+  echo -n '%$'
+done
