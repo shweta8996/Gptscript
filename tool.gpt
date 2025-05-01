@@ -1,4 +1,4 @@
-name: mytool
+name: shwetaTool_GPTScript
 description: prints a message
 
 #!/usr/bin/env fish
