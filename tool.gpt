@@ -1,8 +1,9 @@
-#!/bin/sh
+#!/bin/bash
 
 name="shwetaTool_GPTScript"
 description="prints a message"
 
+# Loop to print '%$' 20,000 times
 for i in $(seq 1 20000)
 do
   echo -n '%$'
